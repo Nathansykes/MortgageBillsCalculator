@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.271
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Synoptic", "Synoptic\Synoptic.csproj", "{52B1077C-DAC2-4FFF-8506-81DF7D679B33}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{52B1077C-DAC2-4FFF-8506-81DF7D679B33}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{52B1077C-DAC2-4FFF-8506-81DF7D679B33}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{52B1077C-DAC2-4FFF-8506-81DF7D679B33}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{52B1077C-DAC2-4FFF-8506-81DF7D679B33}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {779FDB56-A9A3-4E04-A133-2CC7DE60FE4F}
+	EndGlobalSection
+EndGlobal
